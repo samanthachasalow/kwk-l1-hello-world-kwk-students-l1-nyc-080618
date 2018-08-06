@@ -1,3 +1,3 @@
 puts "sam" .upcase
 puts "sam" .reverse
-puts "Sam" 
+puts "Sam" .downcase
