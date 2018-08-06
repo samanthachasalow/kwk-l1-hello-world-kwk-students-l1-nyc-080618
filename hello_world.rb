@@ -1,2 +1,1 @@
-puts "Hello World!"
-puts "Hello Sam"
+puts "2 + 2 + 5"
