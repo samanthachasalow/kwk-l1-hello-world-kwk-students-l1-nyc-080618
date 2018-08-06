@@ -1,1 +1,1 @@
-puts "sam" 
+puts "sam" .upcase
