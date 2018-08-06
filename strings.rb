@@ -1,6 +1,1 @@
-puts "sam" .upcase
-puts "sam" .reverse
-puts "Sam" .swapcase
-puts "sam" .capitalize 
-puts "sam" .length
-puts "hello" .swapcase
+puts "I love Kode With Klossy" .upcase/.length
