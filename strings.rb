@@ -1,2 +1,2 @@
 puts "sam" .upcase
-puts "sam"
+puts "sam" .reverse
